@@ -1,0 +1,41 @@
+h2{
+    margin-top: 0;
+}
+
+.wrapper{
+    width: 420px;
+}
+
+.ease{
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+    left: 0;
+}
+
+.tunnel{
+    background: #eee;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.button{
+    background: orange;
+    display: inline-block;
+    padding: 10px 15px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.button:hover{
+    background: red;
+
+}
